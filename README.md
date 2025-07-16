@@ -65,9 +65,9 @@ Performed using **Power Query**:
 
 ---
 
-## 🔗 License
+## 📜 License
 
-This project is released under the [MIT License](LICENSE).
+This project is licensed under the MIT License. Feel free to use and modify it for your own dataset needs.
 
 ---
 
